@@ -2,7 +2,7 @@
 
 ## Overview 🏝
 
-![Daily college Demo](./assets/demo.png)
+![Daily college Demo](./assets/Demo.png)
 
 ### 🎯 App brief: `Turn your college WhatsApp chaos into clean, AI-generated event cards — delivered daily`
 
