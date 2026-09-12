@@ -4,7 +4,7 @@
 
 ![Demo](./assets/Scene.gif)
 
-### 🎯 App brief: `Turn your study material into an AI-powered learning companion — chat with your notes and generate flashcards from them`
+### 🎯 App brief: `An AI-powered study companion that lets you chat with your notes and generate flashcards`
 
 ### 🔦 Role: Developer
 
