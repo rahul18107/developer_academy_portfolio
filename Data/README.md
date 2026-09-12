@@ -12,3 +12,5 @@ AgriLens is a data-driven agriculture analytics platform that helps farmers and 
 ### 🚉 Platform: Web
 
 ### 🔧 Tech stack: Power BI, Data Analytics
+
+### 🔗 [Link to repository](https://github.com/rahul18107/Agrilens)
