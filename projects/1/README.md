@@ -6,7 +6,7 @@
 
 
 
-### 🎯 App brief: `Simulate how your content spreads across an AI persona network and get a virality score`
+### 🎯 Website brief: `Simulate how your content spreads across an AI persona network and get a virality score`
 
 ### 🔦 Role: Developer
 
