@@ -4,7 +4,7 @@
 
 ![Daily college Demo](./assets/Demo.png)
 
-### 🎯 App brief: `Turn your college WhatsApp chaos into clean, AI-generated event cards — delivered daily`
+### 🎯 App brief: `Turn your college WhatsApp chaos into clean, AI-generated event cards`
 
 ### 🔦 Role: Developer
 
