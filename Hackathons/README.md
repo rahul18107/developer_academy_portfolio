@@ -1,11 +1,11 @@
-## Hackathons
-
-### MANAS
+### 🧠 MANAS
 
 A cognitive support concept designed to assist dementia patients through interactive memory and cognitive activities.
 
-**Role:** Developer  
-**Platform:** Prototype  
-**Tech:** Flutter, AI
+### 🔦 Role: Developer
 
-[View Project Presentation](./Hackathons/MANAS/MANAS.pptx)
+### 🚉 Platform: Prototype
+
+### 🔧 Tech stack: Flutter, AI
+
+### 🔗 [View Project Presentation](./Hackathons/MANAS/MANAS.pptx)
