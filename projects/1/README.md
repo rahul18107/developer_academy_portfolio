@@ -2,7 +2,7 @@
 
 ## Overview 🏝
 
-![Virality Predictor Demo](./assets/Untitleddesign-ezgif.com-optimize.gif)
+![Virality Predictor Demo](./assets/demo.gif)
 
 
 
