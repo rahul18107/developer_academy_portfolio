@@ -6,7 +6,7 @@
 
 
 
-### 🎯 Website brief: `Simulate how your content spreads across an AI persona network and get a virality score`
+### 🎯 Website brief: `AI-powered platform that predicts how content spreads across social networks`
 
 ### 🔦 Role: Developer
 
