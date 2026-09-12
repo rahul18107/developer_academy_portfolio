@@ -4,7 +4,7 @@
 
 ![Demo](./assets/demo.png)
 
-### 🎯 App brief: `A college canteen ordering platform that lets students browse food items, manage their cart, and place orders online`
+### 🎯 Website brief: `A college canteen ordering platform that lets students browse food items, manage their cart, and place orders online`
 
 ### 🔦 Role: Developer
 
